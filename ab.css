@@ -1,0 +1,22 @@
+body{
+    background-color: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+h1{
+    color: rgb(127, 255, 144);
+}
+p{
+    color: blue;
+}
+button{
+    background-color: #999;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: coral;
+}
